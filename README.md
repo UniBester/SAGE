@@ -35,7 +35,7 @@ Here, we use pSp to find the latent code of real images in the latent domain of 
 
 ## Training
 ### Preparing your Data
-- You should first download the [Animal Faces](https://github.com/NVlabs/FUNIT) / [Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/) / [VggFaces](https://www.robots.ox.ac.uk/~vgg/data/vgg_face/) and organize the file structure as follows:
+- You should first download the [Animal Faces](https://github.com/NVlabs/FUNIT) / [Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/) / [VggFaces](https://www.robots.ox.ac.uk/~vgg/data/vgg_face/) / [NABirds](https://dl.allaboutbirds.org/nabirds) and organize the file structure as follows:
 
   ```
   └── data_root

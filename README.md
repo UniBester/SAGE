@@ -158,7 +158,7 @@ For 3-shot generation, you should put all your imgs from one category under one 
 Then, you can use `tools/inference_3_shot.py` to apply the model on a set of images.   
 For example, 
 ```
-python tools/inference_1_shot.py \
+python tools/inference_3_shot.py \
 --output_path=/path/to/output \
 --checkpoint_path=/path/to/checkpoint \
 --test_data_path=/path/to/test/input \

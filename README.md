@@ -8,7 +8,7 @@ Overall framework of SAGE.
 </p>
 
 ## Description   
-Official implementation of SAGE for few-shot image generation. Our code is modified from [pSp](https://github.com/eladrich/pixel2style2pixel.git).
+Official implementation of SAGE for few-shot image generation. Our code is modified from [pSp](https://github.com/eladrich/pixel2style2pixel.git). We also provide the diffusion verison of [SAGE](https://github.com/UniBester/SAGE-Diffusion)
 
 ## Getting Started
 ### Prerequisites
